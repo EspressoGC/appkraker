@@ -1,0 +1,2 @@
+Application -> KryptonX (Massachusetts Institute of Technology License)
+Application Icon -> http://www.iconarchive.com/artist/everaldo.html (Under LGPL)
